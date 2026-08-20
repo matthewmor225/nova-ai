@@ -1,0 +1,1 @@
+Nova Vercel project. Root index.html serves /. api/chat.js is the Claude backend. Add ANTHROPIC_API_KEY in Vercel Environment Variables. Do not put the key in the HTML.
