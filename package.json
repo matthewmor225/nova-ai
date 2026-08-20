@@ -1,1 +1,0 @@
-{"name":"nova-ai","private":true,"version":"2.0.0","type":"module","dependencies":{"@anthropic-ai/sdk":"^0.60.0"}}
